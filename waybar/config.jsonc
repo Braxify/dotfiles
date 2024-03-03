@@ -7,7 +7,7 @@
     // Choose the order of the modules
     "modules-left": ["hyprland/workspaces"],
     "modules-center": ["clock"],
-    "modules-right": ["cpu", "memory", "disk", "tray", "custom/notification"],
+    "modules-right": ["cpu", "memory", "disk", "pulseaudio", "tray", "custom/notification"],
     "layer": "top",
     "exclusive": true,
     "passthrough": false,
